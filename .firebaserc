@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-employee-58b0d": {
+      "hosting": {
+        "crud": [
+          "crud-employee-58b0d"
+        ]
+      }
+    }
+  }
+}
